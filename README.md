@@ -1,4 +1,4 @@
-## ✨ Seja bem vindo(a)!
+### ✨ Seja bem vindo(a)!
 
 Sou cientista de dados e abaixo você irá encontrar repositórios onde estou desenvolvendo diferentes projetos pessoais.
 
@@ -9,6 +9,7 @@ Sou cientista de dados e abaixo você irá encontrar repositórios onde estou de
 <img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/>
+
 <br>
 
 #### Minhas mídias sociais:
@@ -18,3 +19,10 @@ Sou cientista de dados e abaixo você irá encontrar repositórios onde estou de
 
 [linkedin]: https://www.linkedin.com/in/pedrohrafael/
 [medium]: https://medium.com/@pedrohrafael
+<br>
+
+---
+
+### 💼 Meus projetos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohrafael&repo=brazilian-ecommerce)](https://github.com/pedrohrafael/brazilian-ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohrafael&repo=building-logistic-regression)](https://github.com/pedrohrafael/building-logistic-regression)
