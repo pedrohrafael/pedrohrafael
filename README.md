@@ -19,10 +19,3 @@ Sou cientista de dados e abaixo você irá encontrar repositórios onde estou de
 
 [linkedin]: https://www.linkedin.com/in/pedrohrafael/
 [medium]: https://medium.com/@pedrohrafael
-<br>
-
----
-
-### 💼 Meus projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohrafael&repo=brazilian-ecommerce)](https://github.com/pedrohrafael/brazilian-ecommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohrafael&repo=building-logistic-regression)](https://github.com/pedrohrafael/building-logistic-regression)
