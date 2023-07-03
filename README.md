@@ -1,6 +1,6 @@
-### ✨ Seja bem vindo(a)!
+### Seja bem vindo(a),
 
-Sou cientista de dados e abaixo você irá encontrar repositórios onde estou desenvolvendo diferentes projetos pessoais.
+aqui irá encontrar repositórios onde estou desenvolvendo diferentes projetos pessoais de `Ciência de Dados`.
 
 #### Minhas habilidades ou ferramentas:
 
