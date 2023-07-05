@@ -10,7 +10,7 @@ __Contate-me por__
 [<img align="left" alt="pedrohrafael | Medium" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />][medium]
 <br>
 #
-### Linguagens e ferramentas:
+### Linguagens e ferramentas
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/>][jupyter]
@@ -21,7 +21,7 @@ __Contate-me por__
 [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>][postgresql]
 [<img align="left" alt="PowerBI" width="26px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/>][PowerBI]
 
-<br>
+<br><br>
 
 [linkedin]: https://www.linkedin.com/in/pedrohrafael/
 [medium]: https://medium.com/@pedrohrafael
