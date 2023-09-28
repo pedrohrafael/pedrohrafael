@@ -1,6 +1,8 @@
 ## ✨ Seja bem vindo(a)!
 
-Olá, sou o Pedro, e bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma coleção de projetos voltados principalmente para o campo da Ciência de Dados, todos criados com o objetivo de aprendizado contínuo. Espero sinceramente que as soluções e conhecimentos que compartilho possam ser valiosos para você de alguma forma. Sinta-se à vontade para explorar, colaborar e fornecer feedback. Se desejar entrar em contato ou seguir minha jornada, você pode encontrar minhas redes sociais listadas abaixo. Agradeço por estar aqui!
+Olá, sou o Pedro, e bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma coleção de projetos voltados principalmente para o campo da Ciência de Dados, todos criados com o objetivo de aprendizado contínuo. Espero sinceramente que as soluções e conhecimentos que compartilho possam ser valiosos para você de alguma forma. 
+
+Sinta-se à vontade para explorar, colaborar e fornecer feedback. Se desejar entrar em contato ou seguir minha jornada, você pode encontrar minhas redes sociais listadas abaixo. Agradeço por estar aqui!
 
 __Contate-me por__
 
